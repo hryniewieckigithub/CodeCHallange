@@ -64,4 +64,7 @@
     <Build Include="Stored Procedures\usp_GetBiggestTradeProfit.sql" />
     <Build Include="Functions\tvf_SplitString.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="CodeChallange_SSDT.publish.xml" />
+  </ItemGroup>
 </Project>
