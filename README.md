@@ -1,7 +1,7 @@
 # CodeChallange
 Repository created for code challange task
 
-##Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for testing purposes.
 Repository contains two solutions:
 1. SQL Solution
@@ -11,9 +11,9 @@ Repository contains two solutions:
 1.SQL Solution - SQL Server 2017 or higher (Hovewer it should works on previous versions as well including 2008).
 2.C# Solution - Visual studio community edition or professional. , .NET Framework 4.7.2
 
-###Installing
-1.SQL Solution: you need to deploy stored procedure and function from folder \SQLSolution\CodeChallange_SSDT\CodeChallange\CodeChallange\Stored Procedures
-and \SQLSolution\CodeChallange_SSDT\CodeChallange\CodeChallange\Functions
+### Installing
+1.SQL Solution: you need to deploy stored procedure and function from folder \SQLSolution\CodeChallange_SSDT\CodeChallange\CodeChallange\Stored Procedures\usp_GetBiggestTradeProfit.sql
+and \SQLSolution\CodeChallange_SSDT\CodeChallange\CodeChallange\Functions\tvf_SplitString.sql
 Deployment you can do through SSDT(Publish or Compare) project or manually.
 
 ## Running the tests
