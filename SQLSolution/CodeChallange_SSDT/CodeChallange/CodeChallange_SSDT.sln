@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "CodeChallange_SSDT", "CodeChallange\CodeChallange_SSDT.sqlproj", "{DBDC7528-8D0B-418C-ABA6-38760880B9AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDC7528-8D0B-418C-ABA6-38760880B9AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC7528-8D0B-418C-ABA6-38760880B9AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC7528-8D0B-418C-ABA6-38760880B9AF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DBDC7528-8D0B-418C-ABA6-38760880B9AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC7528-8D0B-418C-ABA6-38760880B9AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDC7528-8D0B-418C-ABA6-38760880B9AF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF4C6977-04EC-4E08-B91C-A6F814276F86}
+	EndGlobalSection
+EndGlobal
